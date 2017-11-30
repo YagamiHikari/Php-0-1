@@ -1,0 +1,11 @@
+#My first php page
+<html>
+<body>
+
+<?php
+echo "hello php";
+?>
+
+
+</body>
+</html>
